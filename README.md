@@ -1,2 +1,2 @@
 # TimelineUI
-This pure CSS timelinecan can be used in your next web design project :)
+This pure CSS timeline that can can be used in your next web design project :)
